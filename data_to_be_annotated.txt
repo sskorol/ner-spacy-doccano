@@ -1,0 +1,181 @@
+Yes, it is a product
+Yes, it is a service
+Yes, it is a process
+Yes, sure, it is a product
+Yes, sure, it is a service
+Yes, sure, it is a process
+Yes, it is a service
+Yes, it is a product
+Yes, it is a process
+Why not, it is a process
+Why not, it is a service
+Why not, it is a product
+Ok, product
+Ok, service
+Ok, process
+Ok, it is a product
+Ok, it is a service
+Ok, it is a process
+Sure, it is a product
+Sure, it is a service
+Sure, it is a process
+All right, it is something like a product
+All right, it is something like a service
+All right, it is something like a process
+Ok, let’s start with a product
+Ok, let’s start with a process
+Ok, let’s start with a service
+Sure, I’ll put it as a service
+Sure, I’ll put it as a product
+Sure, I’ll put it as a process
+Fine, it’s a process
+Fine, it’s a service
+Fine, it’s a product
+No problem, I would say it is a product
+No problem, I would say it is a service
+No problem, I would say it is a process
+Let’s choose a product
+Let’s choose a service
+Let’s choose a process
+Let’s say it is a product
+Let’s say it is a process
+Let’s say it is a service
+It’s a complicated question, but let’s start with a product
+It’s a complicated question, but let’s start with a service
+It’s a complicated question, but let’s start with a process
+My idea is a product
+My idea is a service
+My idea is a process
+I can call my idea a product
+I can call my idea a service
+I can call my idea a process
+Ok, so this is something like a product I suppose
+Ok, so this is something like a service I suppose
+Ok, so this is something like a process I suppose
+I think it is definetly a service
+I think it is definetly a product
+I think it is definetly a process
+I would say it is rather a product
+I would say it is rather a service
+I would say it is rather a process
+It is quite a well-known product
+It is quite a well-known service
+It is quite a well-known process
+I assume it could be a product
+I assume it could be a service
+I assume it could be a process
+I would call it a product for the beginning
+I would call it a service for the beginning
+I would call it a process for the beginning
+I am not really sure but let's start with a product
+I am not really sure but let's start with a service
+I am not really sure but let's start with a process
+I am pretty sure it might be a product
+I am pretty sure it might be a service
+I am pretty sure it might be a process
+It is a tough question but let's go with a product
+It is a tough question but let's go with a process
+It is a tough question but let's go with a service
+I choose a product category
+I choose a service category
+I choose a process category
+I think product category fits best
+I think service category fits best
+I think process category fits best
+It seems the product category might work
+It seems the process category might work
+It seems the service category might work
+Among those categories the product one looks promising
+Among those categories the service one looks promising
+Among those categories the process one looks promising
+I think the category is not the best word, but let's choose a product category
+I think the category is not the best word, but let's choose a service category
+I think the category is not the best word, but let's choose a process category
+I would label my idea as a product
+I would label my idea as a process
+I would label my idea as a service
+I'm not really sure where my idea belongs. I choose the product category but again, I'm not really sure about this
+I'm not really sure where my idea belongs. I choose the service category but again, I'm not really sure about this
+I'm not really sure where my idea belongs. I choose the process category but again, I'm not really sure about this
+I would be happy to release a product like this
+I know that it is more something more than a service, but let's go with that
+I would be happy to configure a service like this
+I would be happy to run a service like this
+Honestly, I don't know. Let's choose a product category
+Honestly, I don't know. Let's choose a service category
+Honestly, I don't know. Let's choose a process category
+Ok, let's think, what if we put the product label on it
+Ok, let's think, what if we put the service label on it
+Ok, let's think, what if we put the process label on it
+This is just a sample one, but the main idea is definetly a product
+This is just a sample one, but the main idea is definetly a process
+This is just a sample one, but the main idea is definetly a service
+I'm thinking about several categories. Let me start with the product one.
+I'm thinking about several categories. Let me start with the process one.
+I'm thinking about several categories. Let me start with the service one.
+I'm really confused now. May be it is a product, but it's hard to tell
+I'm really confused now. May be it is a service, but it's hard to tell
+I'm really confused now. May be it is a process, but it's hard to tell
+I'm confident that it is a product though some people may disagree
+I'm confident that it is a service though some people may disagree
+I'm confident that it is a process though some people may disagree
+I decided to start with a product category and see how it works out
+I decided to start with a service category and see how it works out
+I decided to start with a process category and see how it works out
+Do you mind if I choose a product category?
+Do you mind if I choose a service category?
+Do you mind if I choose a process category?
+At first I thought about a service category, but now I think more about the product one
+At first I thought about a process category, but now I think more about the product one
+At first I thought about a product category, but now I think more about the process one
+At first I thought about a service category, but now I think more about the process one
+It is very likely that we are talking about the product category
+It is very likely that we are talking about the service category
+It is very likely that we are talking about the process category
+It can be a product, but it is unlikely so. More a process though.
+It can be a product, but it is unlikely so. More a service though.
+It can be a process, but it is unlikely so. More a service though.
+It can be a service, but it is unlikely so. More a process though.
+Obviously it belongs to the product category
+Obviously it belongs to the service category
+Obviously it belongs to the process category
+I am absolutely sure my idea would be the best product ever
+I am absolutely sure my idea would be the best service ever
+I am absolutely sure my idea would be the best process ever
+It is more about improving the existing product
+It is more about improving the existing service
+It is more about improving the existing process
+Do you think it matters? OK, product then
+Do you think it matters? OK, service then
+Do you think it matters? OK, process then
+It is certainly the product category
+It is certainly the service category
+It is certainly the process category
+Do I really need to put a label on it? All right, let's go with the product
+Do I really need to put a label on it? All right, let's go with the service
+Do I really need to put a label on it? All right, let's go with the process
+I don't know, use product
+I don't know, use service
+I don't know, use process
+This idea can be used in different ways, I am choosing the product category now
+This idea can be used in different ways, I am choosing the service category now
+This idea can be used in different ways, I am choosing the process category now
+The main point is to build a product like this
+The main point is to set up a process like this
+The main point is to configure a service like this
+I'm really really unsure on how it can be labeled. My first thought it is a product, but now I am thinking more of a service
+I'm really really unsure on how it can be labeled. My first thought it is a process, but now I am thinking more of a service
+I'm really really unsure on how it can be labeled. My first thought it is a service, but now I am thinking more of a product
+I'm really really unsure on how it can be labeled. My first thought it is a process, but now I am thinking more of a product
+I've been asked about this once, I think it is a product
+I've been asked about this once, I think it is a service
+I've been asked about this once, I think it is a process
+It is not a service, and not a process, so let's choose a product
+It is not a service, and not a product, so let's choose a process
+It is not a product, and not a process, so let's choose a service
+The last one is not my case, but the process is a good choice
+The last one is not my case, but the product is a good choice
+The last one is not my case, but the service is a good choice
+At least it can be called a product
+At least it can be called a service
+At least it can be called a process
