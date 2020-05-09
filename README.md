@@ -16,6 +16,7 @@ docker-compose -f docker-compose.prod.yml up -d
 Setup a sample project based on [Spacy](https://spacy.io/):
 ```shell script
 git clone https://github.com/sskorol/ner-spacy-doccano.git
+cd ner-spacy-doccano
 pip install -r requirements.txt
 python3 -m spacy download en_core_web_sm
 ```
